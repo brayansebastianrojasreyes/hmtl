@@ -1,9 +1,16 @@
+@font-face {
+    font-family:Ramadhan Mubarak ;
+    src: url(../fonts/Ramadhan\ Mubarak.ttf);
+}
 body {
 
-    font-family: 'Bungee Spice', cursive;
-    background-image: url(.);
+    font-family: Ramadhan Mubarak ;
+    background-image: url(../img/fondo_azul.jpeg);
+    color: white;
     
     }
+
+    
     
     .navbar-brand {
     
@@ -17,7 +24,7 @@ body {
     
     #testimonial {
     
-    background: #f1f1f1;
+    
     
     padding: 50px 0 30px 0;
     
